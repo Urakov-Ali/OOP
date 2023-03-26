@@ -2,7 +2,7 @@ class Wizzard:
     def __init__(self, name, power):
         self. name = name
         self.power = power
-    
+     
     def attack(self):
         print(f'Wizzard {self.name} attacks with power of {self.power}')
 
